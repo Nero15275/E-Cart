@@ -1,0 +1,35 @@
+.nav_list_item {
+    margin-left: 20px;
+  }
+  
+  .navbar_navlink {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 20px;
+    color: #012929 !important;
+    font-weight: 500 !important;
+    padding: 6px !important;
+  }
+  
+  .navbar_navlink:hover {
+     /* transition: 0.4s;
+        border-bottom: 3px solid black;  */
+    color: black !important;
+  }
+  
+  .navlink_active {
+    border-bottom: 4px solid #09bab1;
+    color: black !important;
+    font-weight: 500 !important;
+  }
+  
+  .profile_pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 3px;
+    overflow: hidden;
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
